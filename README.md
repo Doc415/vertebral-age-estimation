@@ -19,7 +19,6 @@ This project investigates the relationship between vertebral bone density and ch
 
 ## 📁 Repository Contents
 - `notebooks/` — Jupyter notebooks for model training and evaluation
-- `datasets/` — Sample data structure (actual data not shared due to privacy)
 
 ## ⚙️ Requirements
 - Python 3.11
