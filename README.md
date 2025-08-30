@@ -14,7 +14,7 @@ This project investigates the relationship between vertebral bone density and ch
 - **Models Used:**
   - Pearson correlation
   - Piecewise linear regression (breakpoint analysis)
-  - Random Forest regression
+  - XGBoost regression
   - Logistic regression
 
 ## 📁 Repository Contents
