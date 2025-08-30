@@ -18,7 +18,7 @@ This project investigates the relationship between vertebral bone density and ch
   - Logistic regression
 
 ## 📁 Repository Contents
-- `notebooks/` — Jupyter notebooks for model training and evaluation
+-  Jupyter notebooks for model training and evaluation
 
 ## ⚙️ Requirements
 - Python 3.11
